@@ -5,7 +5,7 @@ h1 {
 body {
     background-image: url('https://github.com/Midway91/Biome-Project/blob/main/Pictures/index_background.jpg?raw=true');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .topnav {
