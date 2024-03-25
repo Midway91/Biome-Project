@@ -26,13 +26,13 @@
     width: 100%;
 }
 
-.container {
+.emergent {
     position: relative;
     max-width: 800px;
     margin: 0 auto;
 }
 
-.container .content {
+.emergent .content {
     position: absolute;
     bottom: 0;
     background: rgb(0, 0, 0);
