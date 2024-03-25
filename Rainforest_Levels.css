@@ -30,6 +30,10 @@
     width: 100%;
 }
 
+.understory_layer {
+    width: 100%;
+}
+
 .emergent {
     position: relative;
     max-width: 800px;
@@ -53,6 +57,22 @@
 }
 
 .canopy .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 95%;
+    padding: 20px;
+}
+
+.understory {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.understory .content {
     position: absolute;
     bottom: 0;
     background: rgb(0, 0, 0);
