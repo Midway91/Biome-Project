@@ -19,22 +19,5 @@
         </div>
 <!--Fun Facts-->
         <h1>Fun Facts</h1>
-<!--Fact 1-->
-        <button onclick="fact1()">Fact 1</button>
-        <p id="fact1"></p>
-
-        <script>
-            var i = 0;
-            var txt = '6-7% of land surface area is covered by rainforest';
-            var speed = 50; 
-
-            function fact1() {
-                if (i < txt.length) {
-                    document.getElementByID("fact1").innerHTML += txt.charAt(i);
-                    i++;
-                    setTimeout(fact1, speed);
-                }
-            }
-        </script>
     </body>
 </html>
