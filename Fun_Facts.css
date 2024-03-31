@@ -4,13 +4,14 @@ h1 {
 
 .fun-facts {
     text-align: center;
-    color: blue;
+    color: red;
 }
 
 body {
-    background-image: url('Pictures/index_background.jpg');
+    background-color: brown;
+    /* background-image: url('Pictures/index_background.jpg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
 }
 
 .topnav {
