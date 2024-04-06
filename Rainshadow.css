@@ -1,9 +1,6 @@
 body {
-   color: olivedrab;
-}
-
-p {
-    color: saddlebrown;
+   background-color: olivedrab;
+   text-align: center;
 }
 
 .topnav {
