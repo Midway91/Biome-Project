@@ -1,9 +1,16 @@
 body {
     background-color: olivedrab;
+    color: white;
 }
 
 h2 {
     text-align: center;
+}
+
+.clocks {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .countdown {
